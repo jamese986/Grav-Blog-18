@@ -1,0 +1,20 @@
+email: james.top986@gmail.com
+fullname: 'James English'
+title: Admin
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$GWSdYGBfcwnK66A6V3Ebk.8AMS3kQVMJ.9WcHou1gu1zGT8EXDMWO
+language: en
+twofa_enabled: false
+twofa_secret: WJYFYNJZP7PSNKXUYDIM36JV3UDT7A6B
+avatar:
+  user/accounts/avatars/xsWTRPZ1MwpF2yi.png:
+    name: xsWTRPZ1MwpF2yi.png
+    type: image/png
+    size: 377496
+    path: user/accounts/avatars/xsWTRPZ1MwpF2yi.png
